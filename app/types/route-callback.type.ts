@@ -1,0 +1,1 @@
+export type RouteCallBackType = (req: Request) => Response
